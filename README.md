@@ -3,7 +3,7 @@
 This is the final year project repository.
 
 Group members:
-Kanchan K 
-Vivek I
-Aditya Deepak Nayar
+Kanchan K |
+Vivek I |
+Aditya Deepak Nayar |
 Nandu Vasudevan
