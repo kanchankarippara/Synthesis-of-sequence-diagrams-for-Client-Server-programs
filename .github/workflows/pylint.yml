@@ -24,8 +24,8 @@ jobs:
         pip install pylint nbqa
 
     - name: Lint Jupyter Notebook with Pylint
-        run: |
-          nbqa pylint **/*.ipynb
+      run: |
+        nbqa pylint **/*.ipynb
 
     - name: Analysing the code with pylint
       run: |
